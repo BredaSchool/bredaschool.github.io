@@ -1,0 +1,45 @@
+/* Šî–{Ý’è */
+body
+{
+	background-color:#ffddff;
+	color:#000000;
+}
+
+/* ƒwƒbƒ_[ */
+.header td#title
+{
+	background-color:#F0A5B4;
+}
+
+/* ƒTƒuƒwƒbƒ_[ */
+.sub_header td#top_center
+{
+	background-color:#ff21df;
+}
+
+.sub_header td#top_right
+{
+	background-color:#F0A5B4;
+}
+
+.sub_header td#title
+{
+	background-color:#F0A5B4;
+}
+
+.sub_header td#sub_title
+{
+	background-color:#F0A5B4;
+}
+
+/* Šî–{ƒe[ƒuƒ‹ */
+table td#title
+{
+	background-color:#F0A5B4;
+}
+
+/* ƒf[ƒ^[ƒe[ƒuƒ‹ */
+.table_data td#name
+{
+	background-color:#F0A5B4;
+}
